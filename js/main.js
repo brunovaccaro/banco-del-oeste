@@ -219,8 +219,8 @@ function adquirirProductos() {
                 alert("La contratación del producto ha sido cancelada.");
             }
         }
+        menuBanco();
     }
-    menuBanco();
 }
 
 
